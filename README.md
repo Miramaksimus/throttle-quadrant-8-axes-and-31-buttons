@@ -1,6 +1,4 @@
-<figure class="video_container">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/K5ZFy4OZQYY" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[![Throttle-Quadrant "Fokker" - 8 axes and 31 buttons](https://img.youtube.com/vi/K5ZFy4OZQYY/0.jpg)](https://www.youtube.com/watch?v=K5ZFy4OZQYY)
 ![image](images/rud.png)
 ![image](images/rud_1.png)
 ![image](images/rud_2.png)
