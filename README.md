@@ -1,9 +1,5 @@
 # Throttle-Quadrant "Fokker" - 8 axes and 31 buttons
 
-<figure class="video_container">
-  <iframe width="600" height="315" src="https://www.youtube.com/embed/K5ZFy4OZQYY" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
 ## 3D Model
 You can see assembled 3D model in [this URL](https://a360.co/2Yg0hqr) (password is Throttle)
 
@@ -12,6 +8,8 @@ You can see assembled 3D model in [this URL](https://a360.co/2Yg0hqr) (password 
  
 ## Components
 - Bearing 6900 (10x22x6mm)  - 8 units
+- Adhesive felt - 4 units
+- Adhesive non-slip pad 200x200mm - 1 init (optional)
 - Arduino ky-023 joystick - 1 unit
 - Hall-effect sensor (SS49E for example) - 4 units
 - Ceramic capacitor 50V 104 100nF 0.1uf - 4 units
@@ -20,7 +18,7 @@ You can see assembled 3D model in [this URL](https://a360.co/2Yg0hqr) (password 
 - Push Button 6x6 4.3mm - 5 units
 - Miniature toggle switch- on/of/on - 15 units
 - Potentiometer (WH148) 10K Ohm (B10K) - 2 units
-- Switching Diode (for example 1N4148) - 31 units
+- Switching Diode (for example 1N4148) - 30 units
 - Micro-USB 5pin Micro USB 2.0 Male to USB 2.0 B Type Female Connector Cable 30cm With Panel Mount Hole cables - 1 unit
 - Wires - 24-28 AWG 
 - Hot Glue Gun - 1 unit
@@ -34,7 +32,8 @@ You can see assembled 3D model in [this URL](https://a360.co/2Yg0hqr) (password 
 - M4 nut - 32 units
 - M3 screw 10mm - 36 units
 - M3 screw 20mm - 8 units
-- M3 nut - 8 units
+- M3 screw 25mm - 2 units
+- M3 nut - 10 units
 - M2 screw - 8 units
 - M1.7 screw - 4 units
 
@@ -52,6 +51,18 @@ You can see assembled 3D model in [this URL](https://a360.co/2Yg0hqr) (password 
 ![image](images/rud_5.png)
 
 ![image](images/rud_6.png)
+
+![image](images/rud_7.png)
+
+![image](images/rud_8.png)
+
+## Lever assembly and sensor installation
+
+![image](images/rud_9.jpg)
+
+![image](images/rud_10.jpg)
+
+![image](images/rud_11.jpg)
 
 ##  Video
 
