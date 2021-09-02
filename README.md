@@ -13,10 +13,10 @@ You can see assembled 3D model in [this URL](https://a360.co/2Yg0hqr) (password 
 - Arduino ky-023 joystick - 1 unit
 - Hall-effect sensor (SS49E for example) - 4 units
 - Ceramic capacitor 50V 104 100nF 0.1uf - 4 units
-- Cilindrical magnets (5x10mm)
+- Cilindrical magnets (5x10mm) - 4 units
 - 5-Way Switch 10x10x10mm Multi Direction Switch Touch Reset Button - 3 units
 - Push Button 6x6 4.3mm - 5 units
-- Miniature toggle switch- on/of/on - 15 units
+- Miniature toggle switch- on/of/on - 5 units
 - Potentiometer (WH148) 10K Ohm (B10K) - 2 units
 - Switching Diode (for example 1N4148) - 30 units
 - Micro-USB 5pin Micro USB 2.0 Male to USB 2.0 B Type Female Connector Cable 30cm With Panel Mount Hole cables - 1 unit
