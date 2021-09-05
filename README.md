@@ -3,6 +3,8 @@
 ## 3D Model
 You can see assembled 3D model in [this URL](https://a360.co/2Yg0hqr) (password is Throttle)
 
+Attention!!! -  A "small" bug in the lever_arm_n4.stl file has been fixed; it is recommended that those who downloaded the project earlier than 4/09 download new version of this file.
+
 ## Printing
  White and black PLA or PLA+ (200x200mm print size required for the box)
  
